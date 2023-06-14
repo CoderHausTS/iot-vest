@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Don't look at me!  I'm hideous!
+wifi_config.h
